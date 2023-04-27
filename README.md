@@ -15,4 +15,4 @@ There are currently three sections that allow employers to be able to access my 
 
 
 
-#Link to deployed website:
+#Link to deployed website: https://imdawizard.github.io/my-portfolio_website/
